@@ -5,12 +5,13 @@
 ###Check you have npm and node:
 
 In terminal:
-```npm -v
+```bash
+   npm -v
    node -v 
 ```
 
 ## Ryan Dahl's - Node 
-https://www.youtube.com/watch?v=ztspvPYybIY
+[Original Node.js presentation] (https://www.youtube.com/watch?v=ztspvPYybIY)
 
 ###What is node?
 Some ideas:
@@ -27,6 +28,7 @@ Some ideas:
 	- Can have multiple threads running
 
 ###Comparison with Apache and NGINX
+. . .
 
 
 ##Original:
